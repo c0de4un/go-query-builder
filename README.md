@@ -10,9 +10,9 @@ SQL Query Builder written in Go for sql module
 * Go 1.17+
 
 # Tests
-    ```go
-    $go test
-    ```
+```go
+$go test
+```
 # Examples
 
 Simple select
